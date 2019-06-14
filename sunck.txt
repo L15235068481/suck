@@ -2,4 +2,3 @@ hello  liangwei
 hello bianxu
 hello taozi
 hello yy
-hello nihao
